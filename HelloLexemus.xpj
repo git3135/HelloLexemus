@@ -1,7 +1,8 @@
 HelloLexemus/
 HelloLexemus/stories/
-HelloLexemus/stories/in progress/
-HelloLexemus/stories/in progress/HelloLexemus.xst,luke@lexemus.com,8
+HelloLexemus/stories/accepted/
+HelloLexemus/stories/accepted/HelloLexemus.xst,darth@lexemus.com,8
 Team:
+Vader,Darth,darth@lexemus.com,Product Owner
 Princess Leia,,leia@lexemus.com,Tester
 Skywalker,Luke,luke@lexemus.com,Developer
