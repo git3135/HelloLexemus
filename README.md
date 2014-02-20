@@ -1,4 +1,0 @@
-HelloLexemus
-============
-
-HelloLexemus repository
